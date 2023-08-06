@@ -1,0 +1,136 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-11T19:10:22.739Z",
+      "notes": "this is the city where i live!",
+      "position": {
+        "lat": "41.404832000837494",
+        "lng": "2.1962362174974803"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Encamp",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2023-07-11T19:39:55.525Z",
+      "notes": "nice place tho stay cold",
+      "position": {
+        "lat": "42.52069952914966",
+        "lng": "1.61773681640625"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "les Escaldes",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2023-07-11T19:44:39.268Z",
+      "notes": "caleda power",
+      "position": {
+        "lat": "42.48222557002593",
+        "lng": "1.5806579589843752"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Andorra la Vella",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2023-07-11T20:19:52.316Z",
+      "notes": "vella vella",
+      "position": {
+        "lat": "42.50450285299051",
+        "lng": "1.5222930908203125"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Dosrius",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-11T20:21:42.559Z",
+      "notes": "dos o treS?",
+      "position": {
+        "lat": "41.61749568924243",
+        "lng": "2.432098388671875"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Sant Cugat del Valles",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-11T20:24:55.238Z",
+      "notes": "cuigui",
+      "position": {
+        "lat": "41.471029892051384",
+        "lng": "2.081222534179688"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Canillo",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2023-07-11T20:29:02.005Z",
+      "notes": "casadasd",
+      "position": {
+        "lat": "42.581399679665054",
+        "lng": "1.5765380859375002"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-17T19:30:57.556Z",
+      "notes": "ssss",
+      "position": {
+        "lat": "40.01115281221469",
+        "lng": "-0.07518675401602339"
+      },
+      "id": 98443209
+    }
+  ]
+}
